@@ -4,4 +4,4 @@
 3. Meringkas penjualan per barang
 4. Melakukan analisis deskriptif sederhana
 
-Tools: Excel (IFNA, TRIM, VLOOKUP, Left, Right, Filter, Pivot Table
+Tools: Excel (IFNA, TRIM, VLOOKUP, Left, Right, Filter, Pivot Table)
